@@ -1,0 +1,33 @@
+/* global */
+li{
+  list-style-type:none;
+}
+.navigation li{
+background:grey;
+display:inline-block;
+padding:20px;
+}
+.news-list{
+  border:2px solid black;
+  margin:10px;
+  font-size:20px;
+}
+
+
+.news-container{
+  padding:10px;
+  border:2px solid red;
+  margin:30px;
+}
+
+.news-container span:first-child {
+  border-radius:50px;
+  border:2px solid blue;
+}
+
+.news-content{
+  padding: 20px;
+  font-size: 25px;
+  border:none;
+}
+
